@@ -1,5 +1,6 @@
 #include <iostream>
 int main(){
-    std::count<<"Hello GitHub!"
+    std::cout<<"Hello GitHub!"<<std::endl;
+    std::cout<<"Second commit!"<<std::endl;
     return 0;
 }
